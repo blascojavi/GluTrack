@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GluTrack</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="default_web_client_id">407167899250-3alacuujtil03l44gv5ep2g8u15ovqse</string>
+</resources>

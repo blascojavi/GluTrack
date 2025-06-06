@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "407167899250",
+    "project_id": "glutrack-31d4f",
+    "storage_bucket": "glutrack-31d4f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407167899250:android:6530c249b7a4dbbfe514eb",
+        "android_client_info": {
+          "package_name": "com.jblasco.glutrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407167899250-3alacuujtil03l44gv5ep2g8u15ovqse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jblasco.glutrack",
+            "certificate_hash": "a6c2994e96f54176cbde858379740801eebe0096"
+          }
+        },
+        {
+          "client_id": "407167899250-lv2arsi659tp90ls5prk4a6c8iaoc3ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDguaSEIqmxBw23E5V2zYbsjrcruUEr3r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407167899250-lv2arsi659tp90ls5prk4a6c8iaoc3ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
